@@ -1,4 +1,10 @@
-# MyMonth Freelancing App
+## Project name
+
+**MyMonth Freelancing App**
+
+## Project URL
+
+**https://mymonth.vercel.app/**
 
 Freelancing peoject for Cameroonian IT Students
 
