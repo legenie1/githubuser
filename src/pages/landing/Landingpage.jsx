@@ -1,6 +1,6 @@
 import React from "react";
 import Landinglayout from "../../layouts/Landinglayout";
-import IMAGES from "../../constant/images";
+import IMAGES from "../../constants/images";
 console.log(`${process.env.REACT_APP_FRONTEND}`);
 function Landingpage() {
   return (
