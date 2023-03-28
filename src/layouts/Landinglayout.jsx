@@ -1,6 +1,6 @@
 import React from "react";
-import Landingfooter from "../landing/footer/Landingfooter";
-import Landingnavbar from "../landing/navbar/Landingnavbar";
+import Landingfooter from "../pages/landing/footer/Landingfooter";
+import Landingnavbar from "../pages/landing/navbar/Landingnavbar";
 
 function Landinglayout({ children, title }) {
   return (
