@@ -5,6 +5,7 @@ console.log(`${process.env.REACT_APP_FRONTEND}`);
 function Landingpage() {
   return (
     <Landinglayout>
+      <h1>MyMonth Freelancing</h1>
       <img src={IMAGES.HERO_SECTION} width={250} alt="" />
       This is the Home Page
     </Landinglayout>
