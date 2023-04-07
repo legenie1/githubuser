@@ -5,6 +5,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<Landingpage />} />
+        <Route path="*" exact element={<Landingpage />} />
       </Routes>
     </Router>
   );
